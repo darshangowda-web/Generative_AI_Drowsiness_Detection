@@ -13,8 +13,8 @@ import os
 from datetime import datetime
 
 # API keys for OpenAI and Eleven Labs
-openai.api_key = "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"
-ELEVEN_LABS_API_KEY = "sk_a6072339de4eb94e9c3d03865171adb88789989a915df47d"
+openai.api_key = ""
+ELEVEN_LABS_API_KEY = ""
 
 # Initialize pygame mixer for sound alerts
 mixer.init()

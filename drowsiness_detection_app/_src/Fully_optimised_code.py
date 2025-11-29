@@ -13,8 +13,8 @@ import os
 from datetime import datetime
 #from map import find_nearby_gas_stations, get_current_location
 # API keys for OpenAI and Eleven Labs
-openai.api_key = "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"
-ELEVEN_LABS_API_KEY = "sk_c19de80a320b3b9a0132f3b695ceb2115d504bcaf002ea67"
+openai.api_key = ""
+ELEVEN_LABS_API_KEY = ""
 
 # Initialize pygame mixer for sound alerts
 mixer.init()

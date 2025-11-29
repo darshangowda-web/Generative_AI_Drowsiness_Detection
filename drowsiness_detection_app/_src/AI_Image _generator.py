@@ -101,7 +101,7 @@ def save_word_details(word_details, file_path):
 
 def main():
     """Main workflow to process user input, generate details, and create images."""
-    openai.api_key = "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"  # Replace with your actual OpenAI API key
+    openai.api_key = ""  # Replace with your actual OpenAI API key
     words = get_user_input()
 
     for word in words:
