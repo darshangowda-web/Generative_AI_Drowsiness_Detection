@@ -1,0 +1,6 @@
+AI: I'm just a voice assistant, so I don't get tired, but I appreciate your concern! How about you? Are you feeling alert while driving? It's important to stay safe on the road.
+User: hey how are you
+AI: Hi! I'm here to keep you company and help you stay alert. How are you feeling?
+User: good thank you
+AI: You're welcome! If there's anything else you need or if you have any questions to keep you alert, just let me know. Drive safely!
+User: stop

@@ -1,0 +1,52 @@
+Alert sound playing.
+AI Response: Thanks for asking! I'm here to help you stay alert. If you're feeling drowsy, it's important to find a safe place to pull over and take a break. Stretching, a short nap, or a caffeine break can help recharge you. Let me know if you need directions to a nearby rest stop or any tips to stay awake!
+Listening... (speak now)
+Processing your input...
+User Response: I am feeling tired can you tell me a joke
+AI Response: Of course! Here's a joke to keep you entertained: 
+
+Why don’t scientists trust atoms?
+
+Because they make up everything!
+
+Stay alert and drive safely!
+Listening... (speak now)
+Processing your input...
+User Response: can you tell me the same joke in Spanish
+AI Response: Sure thing! Here's a joke in Spanish:
+
+¿Por qué el libro de matemáticas siempre está triste?
+Porque tiene demasiados problemas.
+
+If you need more jokes or anything else, feel free to ask!
+Listening... (speak now)
+Processing your input...
+User Response: tell me the same joke in Tamil
+AI Response: Sure, I can translate a joke into Tamil for you. Here's a simple one:
+
+English: Why don't scientists trust atoms? Because they make up everything!
+
+Tamil: ஏன் விஞ்ஞானிகள் அணுக்களை நம்புவதில்லை? ஏனெனில் அவைகள் எல்லாவற்றையும் உருவாக்குகின்றன!
+
+Feel free to ask if you have any other requests!
+Listening... (speak now)
+Processing your input...
+User Response: the same joke in Hindi
+AI Response: Sure, I can share a joke in Hindi. Here it goes:
+
+बॉस: "तुम कितने साल के हो गए हो?"
+कर्मचारी: "24 साल का, सर!"
+बॉस: "24 साल के होकर भी तुम इतनी बेवकूफी की बातें करते हो?"
+कर्मचारी: "सर, 18 साल तो मैं पढ़ाई में लगा था!"
+
+अगर आप और भी जोक्स सुनना चाहें, तो मुझे बताएं!
+Listening... (speak now)
+Processing your input...
+User Response: haha that was funny
+AI Response: Sounds like you heard something entertaining! Laughter is a great way to keep the mood up and stay alert while driving. If you want to share, what was the joke or moment that made you laugh?
+Listening... (speak now)
+Listening timed out. No speech detected.
+User Response: 
+AI Response: It looks like you accidentally activated the voice input without any message. How can I assist you today?
+Listening... (speak now)
+User: stop

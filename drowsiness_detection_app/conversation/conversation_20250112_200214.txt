@@ -1,0 +1,16 @@
+AI: Thank you for your concern! I'm just mimicking the experience of a drowsy driver to help you recognize the signs and address them if you ever feel drowsy while driving. How can I assist you today?
+User: can you tell me a joke in Tamil
+AI: Sure, here's a Tamil joke for you: ஒரு சிறிய வில்லு நடுக்கி அதிக அளவில் மொங்கிகையைச் சேலைகிரிக்கிறது. மற்றவர் தனது வீடுக்குச் செல்லவுச் சொன்னார், "ஏன் அதிக சாப்பிடிக்கிறீர்கள்?" வில்லு, "ஒரு பக்கம் மொங்கிகை போல இனிக்கும், இனி ஒரு பக்கம் அடியேற்றுவது!"
+User: 
+AI: Hello! How can I assist you today?
+User: 
+AI: Hi! How can I assist you today?
+User: Spanish
+AI: ¡Hola! ¿En qué puedo ayudarte hoy?
+User: 
+AI: Hello! How can I assist you today?
+User: 
+AI: Hello! How can I assist you today?
+User: 
+AI: Good evening! How can I assist you today?
+User: stop
